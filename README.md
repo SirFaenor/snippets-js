@@ -1,2 +1,2 @@
 # snippets-js
-Useful javascript snippets
+Collection of miscellaneous javascript snippets 
